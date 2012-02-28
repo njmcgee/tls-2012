@@ -45,14 +45,14 @@ body {
 
 /* line 14, ../sass/_boilerplate-reset.scss */
 ::-moz-selection {
-  background: #fe57a1;
+  background: #c3c3c3;
   color: #fff;
   text-shadow: none;
 }
 
 /* line 15, ../sass/_boilerplate-reset.scss */
 ::selection {
-  background: #fe57a1;
+  background: #c3c3c3;
   color: #fff;
   text-shadow: none;
 }

@@ -11,8 +11,8 @@ html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10
 html, button, input, select, textarea { font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #191919; }
 body { margin: 0; font-size: 1.125em; line-height: 1.7; }
 
-::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
-::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::-moz-selection { background: #c3c3c3; color: #fff; text-shadow: none; }
+::selection { background: #c3c3c3; color: #fff; text-shadow: none; }
 
 a { color: #808080; text-decoration: none; }
 a:visited { color: #808080; }
